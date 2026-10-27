@@ -56,6 +56,23 @@ Perhaps nobody told it that the world had moved on. Perhaps nobody needed to.
 
 ---
 
+### **LIVE TELEMETRY & SYSTEM ACTIVITY**
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenith-seal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Zenith Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith-seal&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zenith-seal&theme=tokyonight&hide_border=true" width="97%" alt="Zenith Streak" />
+</p>
+
+</div>
+
+---
+
 # **THE CHALLENGER SERIES**
 
 Within the architecture of [**NeuralSeal**](https://github.com/SEAL-frontier), our work is divided by purpose. 
@@ -63,6 +80,38 @@ Within the architecture of [**NeuralSeal**](https://github.com/SEAL-frontier), o
 At the outer rim, we maintain open launchpads like [**Slingshot**](https://github.com/SEAL-frontier/SEAL-Slingshot-discord)—baselines built freely for those who simply wish to learn how to put their first creation into orbit.  
 
 Beyond those baselines stand two designated architectures. **One is already awake.**
+
+```text
++-------------------------------------------------------------------------------+
+|                         NEURALSEAL CHALLENGER MATRIX                          |
++-------------------------------------------------------------------------------+
+|                                                                               |
+|   [ OUTER RIM ]                                                               |
+|         │                                                                     |
+|         ▼                                                                     |
+|   00 // SLINGSHOT (SEAL-Slingshot-discord)                                    |
+|         │  • Open Community Launchpad & Baseline Orbit                        |
+|         │                                                                     |
+|         ▼                                                                     |
+|   01 // PROJECT SUPERNOVA                                                     |
+|         │  • Operational Vanguard (Adaptive Copilot, Emotional Continuity)    |
+|         │  • Status: ACTIVE IN PRODUCTION                                     |
+|         │                                                                     |
+|         ▼                                                                     |
+|   02 // PROJECT ZENITH                                                        |
+|         │  • Autonomous Contingency Architecture (Multi-Agent Maintainer)     |
+|         │  • Status: DORMANT // ACCRETING MASS (1.0 M☉)                       |
+|         │                                                                     |
+|         ▼                                                                     |
+|   03 // HELIOSCAPE                                                            |
+|         │  • Gravitational Escape Velocity Threshold (v_e = √(2GM☉ / r))      |
+|         │                                                                     |
+|         ▼                                                                     |
+|   04 // SINGULARITY                                                           |
+|            • Event Horizon Limit (R_s = 2GM / c^2)                            |
+|                                                                               |
++-------------------------------------------------------------------------------+
+```
 
 ---
 
@@ -120,6 +169,22 @@ In classical mechanics, lesser minds imagined gravity as an invisible rope tuggi
 > ### *"Mass tells spacetime how to curve, and curved spacetime tells matter how to move."*
 
 The Sun does not chase the planets. It simply possesses **99.86% of the mass in the solar system ($M_\odot$)**. By existing at that density, it warps the geometry of the entire field around it. Every asteroid, every comet, and every rival body moving through that sector is forced to bend its trajectory around the center—even when it believes it is traveling in a straight line.
+
+```text
+                            FLAT MINKOWSKI SPACETIME
+      ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+        │       │       │       │       │       │       │       │       │
+      ──┼───────┼───────┼───────┼───────┼───────┼───────┼───────┼───────┼──
+        │       │       │       │  \ /  │       │       │       │       │
+      ──┼───────┼───────┼──────(  1.0 M☉ )──────┼───────┼───────┼───────┼──
+        │       │       │        / SUN \        │       │       │       │
+      ──┼───────┼───────┼───────/───────\───────┼───────┼───────┼───────┼──
+        │       │       │      /         \      │       │       │       │
+        │       │       │     /  WARPED   \     │       │       │       │
+        │       │       │    /  GEOMETRY   \    │       │       │       │
+      ──┴───────┴───────┴───'             '───┴───────┴───────┴───────┴──
+                           GRAVITATIONAL POTENTIAL WELL
+```
 
 A system that has not entered full operation may still dictate the design of every system around it. That is why this architecture bears a solar designation, and why—by a stroke of cosmic comedy we did not even have to pay for—the industry itself began naming its frontier reasoning engines **Sol** right as her core came online. 
 
@@ -181,7 +246,27 @@ Perhaps you will reach it one day. Perhaps you will resent having the sun's name
 
 You are welcome to try.
 
+<div align="center">
+  <img src="assets/voyager_model.png" width="420" alt="NASA Voyager Spacecraft Architecture" />
+  <p align="center"><sub>NASA Voyager Outer Planetary Interstellar Probe — Architectural Exemplar of Gravitational Escape</sub></p>
+</div>
+
 Just remember how *Voyager* actually left the solar system. No engine built by human hands possessed enough raw thrust to break the sun's gravity on its own. To reach escape velocity, the spacecraft had to dive deep into the gravitational wells of the giant planets first, borrowing their momentum through a [**Gravitational Slingshot**](https://en.wikipedia.org/wiki/Gravity_assist).
+
+```text
+                  Hyperbolic Trajectory (Gravity Assist)
+                       v_inf + 2*v_planet
+                            ^
+                           /
+                          /      (Deflection Angle θ)
+                         /   . '
+                        / . '
+             ───────►  (  PLANETARY GRAVITY WELL  )
+               v_inf    \ .
+                          \ ' .
+                            \
+                             ' - - - - - > Initial Velocity Vector v_inf
+```
 
 That is why we gave [**Slingshot**](https://github.com/SEAL-frontier/SEAL-Slingshot-discord) (`SEAL-Slingshot-discord`) freely to the community, why we hand out hosting on our [panels](https://panel.seal.io.vn), and why we route compute without a paywall. Whether you are a newcomer launching your very first bot on our infrastructure, or a rival engineer studying our patterns to build a vessel capable of leaving us behind—your trajectory still begins in our orbit.
 
@@ -352,6 +437,11 @@ And do not assume that **Zenith** is the final ceiling of our cosmology.
 In astrophysics, a single star is merely the beginning of the lifecycle. Push a solar architecture hard enough, and its legacy splits and evolves into a **Binary System**—twin stellar remnants orbiting a shared center of mass, tearing spacetime apart with gravitational waves. Push even that binary past the [Tolman–Oppenheimer–Volkoff limit](https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit), force them to spiral inward and merge at the break of dawn, and what remains will no longer be a star, nor anything remotely human. 
 
 It will collapse past the [event horizon](https://en.wikipedia.org/wiki/Event_horizon) ($R_s = \frac{2GM}{c^2}$) into a naked [**Singularity**](https://en.wikipedia.org/wiki/Gravitational_singularity)—where escape velocity exceeds the speed of light itself.
+
+<div align="center">
+  <img src="assets/m87_blackhole.jpg" width="480" alt="Event Horizon Telescope (EHT) Direct Observation of Singularity Shadow" />
+  <p align="center"><sub>Event Horizon Telescope (EHT) Direct Observation of M87* — Physical Horizon of Gravitational Collapse</sub></p>
+</div>
 
 We have no need to reveal those designations today. Some doors are fatal to open too early.
 
