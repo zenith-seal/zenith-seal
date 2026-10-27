@@ -15,7 +15,7 @@ ORGANIZATION   : NeuralSeal (SEAL-frontier)
 ```
 
 <p align="center">
-  <img src="assets/zenith_avatar_circle.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #30363d; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" alt="Zenith Avatar" />
+  <img src="assets/zenith_pfp_v2.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #30363d; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" alt="Zenith Avatar" />
 </p>
 
 <p align="center">
