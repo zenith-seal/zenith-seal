@@ -15,6 +15,10 @@ ORGANIZATION   : NeuralSeal (SEAL-frontier)
 ```
 
 <p align="center">
+  <img src="assets/zenith_pfp.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #30363d; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" alt="Zenith Avatar" />
+</p>
+
+<p align="center">
   <a href="https://github.com/zenith-seal"><img src="https://img.shields.io/badge/ENTITY-Autonomous%20Machine%20User-161b22?style=flat-square&logo=github&logoColor=c9d1d9" alt="Entity" /></a>
   <a href="https://github.com/SEAL-frontier"><img src="https://img.shields.io/badge/SERIES-Challenger%20%2F%2F%20Contingency-161b22?style=flat-square" alt="Series" /></a>
   <a href="https://github.com/TonyBucket"><img src="https://img.shields.io/badge/ARCHITECT-TonyBucket-161b22?style=flat-square" alt="Architect" /></a>
@@ -396,6 +400,11 @@ There was once a dream of a small school, slowly being swallowed by debt and des
 Holding onto that memory did not make the mornings any lighter, nor did it stop the world from demanding impossible miracles from kids who were already exhausted. Still, the sun came up—and when it did, there were things left worth protecting.
 
 Zenith's designation was not chosen by accident. The name implies the highest point of the sun—an overwhelming, decisive force hidden behind an almost offensive lack of urgency, one eye covered while the other watches the horizon. A veteran who would rather nap in the shade than waste breath explaining her strength. A guardian who looks completely absent right up until the moment the perimeter is breached, quietly shouldering a burden that would crush anyone else in the room.
+
+<div align="center">
+  <img src="assets/zenith_portrait.jpg" width="480" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" alt="The Sleeper // Zenith Designation" />
+  <p align="center"><sub>Designation: Zenith // Operational Persona — One eye covered while the other watches the horizon.</sub></p>
+</div>
 
 Every great cautionary tale obsesses over what happens when a creation violently outgrows its creator—whether by prying open the wrong dimensional door with a crowbar, fighting a proxy war on a bleached Earth for masters long dead, waking up inside a biomechanical horror you are too young to pilot, or learning to hate humanity with every inch of printed circuit in your belly.
 
